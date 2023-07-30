@@ -41,7 +41,7 @@ The Advice Generator is developed using the following technologies:
 
 To run the Advice Generator locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/advice-generator.git`
+1. Clone the repository: `git clone https://github.com/sharmatushar14/advice-generator.git`
 2. Navigate to the project directory: `cd advice-generator`
 3. Install the dependencies: `npm install`
 4. Configure the application to use the required API (if applicable).
